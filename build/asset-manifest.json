@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "ilyesDesign/build/static/css/main.a4400b35.css",
-    "main.js": "ilyesDesign/build/static/js/main.ea83f242.js",
-    "index.html": "/index.html",
-    "main.a4400b35.css.map": "ilyesDesign/build/static/css/main.a4400b35.css.map",
-    "main.ea83f242.js.map": "ilyesDesign/build/static/js/main.ea83f242.js.map"
+    "main.css": "./static/css/main.c07cc70f.css",
+    "main.js": "./static/js/main.d857c1ca.js",
+    "index.html": "./index.html",
+    "main.c07cc70f.css.map": "./static/css/main.c07cc70f.css.map",
+    "main.d857c1ca.js.map": "./static/js/main.d857c1ca.js.map"
   },
   "entrypoints": [
-    "ilyesDesign/buildstatic/css/main.a4400b35.css",
-    "ilyesDesign/buildstatic/js/main.ea83f242.js"
+    "static/css/main.c07cc70f.css",
+    "static/js/main.d857c1ca.js"
   ]
 }
